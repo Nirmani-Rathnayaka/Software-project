@@ -1,0 +1,6 @@
+sp_frontend/node_modules/*/
+sp_frontend/package-lock.json
+
+SP_API/.vs/
+SP_API/bin/
+SP_API/obj/
